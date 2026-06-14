@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.2.0](https://github.com/FelipeFuhr/ffreis-workflows-swift/compare/v0.1.0...v0.2.0) (2026-06-14)
+
+
+### Features
+
+* **workflows:** add swift-format.yml + swift-security.yml (mobsfscan SAST) ([#5](https://github.com/FelipeFuhr/ffreis-workflows-swift/issues/5)) ([212ac8a](https://github.com/FelipeFuhr/ffreis-workflows-swift/commit/212ac8a0752f2e90bc46351bddeec3ed606ea3e3))
+
+## Changelog
+
 All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
